@@ -72,7 +72,7 @@ Output: "डेटा सायन्स शक्तिशाली आहे"
 
 ### 🔹 Summarization
 
-nput: Long paragraph...
+Input: Long paragraph...
 Output: Concise generated summary
 
 
@@ -113,4 +113,4 @@ highlighting when and why each approach should be used.
 
 ## 📎 Author
 Rahul Goraksha  
-Aspiring Data Analyst / Data Scientist  
+Business Analyst
